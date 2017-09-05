@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1AC006A4-C4DB-B18C-2886-D64C60D4071F}") = "Color Jam", "Assembly-CSharp.csproj", "{7D1527DB-B8AD-9E2F-102E-C4F2283C072F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D1527DB-B8AD-9E2F-102E-C4F2283C072F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1527DB-B8AD-9E2F-102E-C4F2283C072F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1527DB-B8AD-9E2F-102E-C4F2283C072F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1527DB-B8AD-9E2F-102E-C4F2283C072F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
